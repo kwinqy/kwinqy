@@ -1,7 +1,7 @@
 <!-- Header: animated typing -->
 <p align="center">
   <a href="https://github.com/kwinqy">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Your+Name!+%F0%9F%91%8B;Golang+%7C+Backend+%7C+Distributed+Systems;Clean+code.+Strong+typing.+Massive+impact." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Muchkaev+Oleg!+%F0%9F%91%8B;Golang+%7C+Backend+%7C+Distributed+Systems;Clean+code.+Strong+typing.+Massive+impact." alt="Typing SVG" />
   </a>
 </p>
 
