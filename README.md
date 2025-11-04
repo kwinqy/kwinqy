@@ -46,7 +46,7 @@
 
 ---
 
-## 📈 GitHub Статистика
+## GitHub Статистика
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kwinqy&show_icons=true&rank_icon=github&hide_title=true&include_all_commits=true&theme=tokyonight&card_width=400" alt="GitHub Stats"/>
   <img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=false&card_width=400" alt="GitHub Streak"/>
@@ -67,13 +67,13 @@
 
 ---
 
-## 📚 Избранные проекты
-- 🔹 **Project A** — высоконагруженный реверс-прокси на Go (HTTP/2, hot-reload, circuit breaker).  
-- 🔹 **Project B** — exactly-once процессор событий Kafka (outbox/inbox, DLQ, Observability).  
-- 🔹 **Project C** — CRD/оператор под Kubernetes (controller-runtime, финалайзеры).  
+##  Избранные проекты
+-  **Project A** — высоконагруженный реверс-прокси на Go (HTTP/2, hot-reload, circuit breaker).  
+-  **Project B** — exactly-once процессор событий Kafka (outbox/inbox, DLQ, Observability).  
+-  **Project C** — CRD/оператор под Kubernetes (controller-runtime, финалайзеры).  
 > Ссылки: [A](https://github.com/kwinqy/project-a) • [B](https://github.com/kwinqy/project-b) • [C](https://github.com/kwinqy/project-c)
 
-## 🤝 Контакты
+##  Контакты
 <p align="center">
   <a href="https://t.me/kwinqy"><img src="https://img.shields.io/badge/Telegram-Write%20me-26A5E4?logo=telegram&logoColor=white" /></a>
   &nbsp; 
@@ -84,5 +84,5 @@
 
 <!-- Footer quote -->
 <p align="center">
-  <em>"Make it work. Make it right. Make it fast."</em>
+  <em>""</em>
 </p>
