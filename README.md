@@ -48,21 +48,21 @@
 
 ## 📈 GitHub Статистика
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github&hide_title=true&include_all_commits=true&theme=tokyonight&card_width=400" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kwinqy&show_icons=true&rank_icon=github&hide_title=true&include_all_commits=true&theme=tokyonight&card_width=400" alt="GitHub Stats"/>
   <img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=false&card_width=400" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=10&theme=tokyonight&card_width=445" alt="Top Langs"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwinqy&layout=compact&langs_count=10&theme=tokyonight&card_width=445" alt="Top Langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&row=1&column=7&theme=tokyonight&no-frame=true&no-bg=true" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kwinqy&row=1&column=7&theme=tokyonight&no-frame=true&no-bg=true" alt="Trophies"/>
 </p>
 
 <!-- Optional: contribution activity graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kwinqy&theme=tokyo-night&area=true" alt="Activity Graph"/>
 </p>
 
 ---
@@ -71,16 +71,7 @@
 - 🔹 **Project A** — высоконагруженный реверс-прокси на Go (HTTP/2, hot-reload, circuit breaker).  
 - 🔹 **Project B** — exactly-once процессор событий Kafka (outbox/inbox, DLQ, Observability).  
 - 🔹 **Project C** — CRD/оператор под Kubernetes (controller-runtime, финалайзеры).  
-> Ссылки: [A](https://github.com/YOUR_USERNAME/project-a) • [B](https://github.com/YOUR_USERNAME/project-b) • [C](https://github.com/YOUR_USERNAME/project-c)
-
-<details>
-  <summary><b>Мои принципы</b></summary>
-  <br/>
-  • Простота важнее магии • Документируй протоколы • Тесты и бенчмарки — часть фичи •
-  Инструменты наблюдаемости с первого дня • Не усложнять раньше времени
-</details>
-
----
+> Ссылки: [A](https://github.com/kwinqy/project-a) • [B](https://github.com/kwinqy/project-b) • [C](https://github.com/kwinqy/project-c)
 
 ## 🤝 Контакты
 <p align="center">
