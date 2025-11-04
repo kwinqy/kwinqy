@@ -1,7 +1,7 @@
 <!-- Header: animated typing -->
 <p align="center">
   <a href="https://github.com/kwinqy">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Muchkaev+Oleg!+%F0%9F%91%8B;Golang+%7C+Backend+%7C+Distributed+Systems;Clean+code.+Strong+typing.+Massive+impact." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Muchkaev+Oleg!+%F0%9F%91%8B;+%7C++%7C+;+.+.++." alt="Typing SVG" />
   </a>
 </p>
 
@@ -67,12 +67,12 @@
 
 ---
 
-##  Избранные проекты
+<!--##  Избранные проекты
 -  **Project A** — высоконагруженный реверс-прокси на Go (HTTP/2, hot-reload, circuit breaker).  
 -  **Project B** — exactly-once процессор событий Kafka (outbox/inbox, DLQ, Observability).  
 -  **Project C** — CRD/оператор под Kubernetes (controller-runtime, финалайзеры).  
 > Ссылки: [A](https://github.com/kwinqy/project-a) • [B](https://github.com/kwinqy/project-b) • [C](https://github.com/kwinqy/project-c)
-
+-->
 ##  Контакты
 <p align="center">
   <a href="https://t.me/kwinqy"><img src="https://img.shields.io/badge/Telegram-Write%20me-26A5E4?logo=telegram&logoColor=white" /></a>
