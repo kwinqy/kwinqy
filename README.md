@@ -75,9 +75,9 @@
 
 ## 🤝 Контакты
 <p align="center">
-  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-Write%20me-26A5E4?logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/kwinqy"><img src="https://img.shields.io/badge/Telegram-Write%20me-26A5E4?logo=telegram&logoColor=white" /></a>
   &nbsp; 
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-you%40example.com-EE6C4D?logo=gmail&logoColor=white" /></a>
+  <a href="sq.smoqqy@gmail.com"><img src="https://img.shields.io/badge/Email-you%40example.com-EE6C4D?logo=gmail&logoColor=white" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/your_linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" /></a>
 </p>
