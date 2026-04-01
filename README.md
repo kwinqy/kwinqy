@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a4/00/6a/a4006a64289a74cf8f3f6c888804595e.gif" width="100%" alt="header-aesthetic">
+  <img src="https://i.pinimg.com/1200x/e6/67/64/e66764a7ae6b33bd2bab3ef8a19ca3b5.jpg" width="100%" alt="header-aesthetic">
 </p>
 
 <h1 align="center">SOFTWARE ENGINEER</h1>
