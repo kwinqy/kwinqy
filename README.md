@@ -24,5 +24,5 @@
 `[ Telegram - kwinqy]` 
 
 <p align="right">
-  <i>"The world is simple. It's the code that makes it complex."</i>
+  <i>"xls vsx."</i>
 </p>
