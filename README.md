@@ -11,12 +11,15 @@
 
 ---
 
+
 ### 📂 CORE_STACK
-- **Language:** Golang
-- **Databases:** PostgreSQL / MySQL / Redis
-- **Infrastructure:** Docker / Kubernetes (K8s)
-- **Architecture:** System Design / Message Queues (MQ)
-- **CI/CD:** GitHub Actions
+-  Golang (`Standard Library`, `Fiber`, `Gin`)
+-  PostgreSQL / MySQL / Redis
+-  Docker / Kubernetes / Terraform
+-  System Design / Message Queues / Microservices
+-  gRPC / REST / WebSockets
+-  Prometheus / Grafana / ELK
+-  GitHub Actions / Makefile
 
 ---
 
