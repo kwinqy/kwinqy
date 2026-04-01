@@ -15,11 +15,12 @@
 ### 📂 CORE_STACK
 -  Golang (`Standard Library`, `Fiber`, `Gin`)
 -  PostgreSQL / MySQL / Redis
--  Docker / Kubernetes / Terraform
+-  Docker / Kubernetes 
 -  System Design / Message Queues / Microservices
 -  gRPC / REST / WebSockets
 -  Prometheus / Grafana / ELK
 -  GitHub Actions / Makefile
+-  Click House
 
 ---
 
