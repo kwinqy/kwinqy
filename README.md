@@ -28,5 +28,5 @@
 `[ Telegram - kwinqy]` 
 
 <p align="right">
-  <i>"xls vsx."</i>
+  <i>"xls"</i>
 </p>
