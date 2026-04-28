@@ -5,7 +5,3 @@
 
 <h1 align="center">SOFTWARE ENGINEER</h1>
 
-<p align="center">
-  <b>Focused on building scalable, high-performance backend systems.</b>
-</p>
-
